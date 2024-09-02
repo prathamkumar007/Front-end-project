@@ -96,10 +96,7 @@ hr{
     text-decoration: none;
     color: rgb(31, 98, 185);
 }
-.box img{
-    width: 80%;
-    margin-left: 60px;
-}
+
 footer {
     position: fixed;
     left: 0;
